@@ -8,7 +8,7 @@ func main() {
 }
 
 func doublePtr(n *int) {
-	*n *= 2
+	*n *= 2 
 }
 
 /*
